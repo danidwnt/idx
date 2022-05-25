@@ -7,7 +7,7 @@ import { BsFillChatLeftDotsFill } from "react-icons/bs"
 
 const Service = () => {
     return (
-        <div>
+        <div id="service">
             <h1 className='mb-5' style={{ textAlign: "center", fontSize: "40px", fontWeight: "600", fontFamily: "Arial" }}>The Service we offer is specifically <br /> designed to meed your needs</h1>
             <Row>
                 <Col className='py-1'>
